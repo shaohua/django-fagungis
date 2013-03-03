@@ -318,7 +318,7 @@ def _install_nginx():
     sudo("add-apt-repository -y ppa:nginx/stable")
     sudo("apt-get update")
     sudo("apt-get -y install nginx")
-    sudo("/etc/init.d/nginx start")
+    #sudo("/etc/init.d/nginx start")
 
 
 def _install_dependencies():
