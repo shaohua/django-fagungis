@@ -34,11 +34,11 @@ Using pip
 ---------
 If you have pip install available on your system, just type::
 
-    pip install git+https://github.com/damianmoore/django-fagungis.git
+    pip install git+https://github.com/shaohua/django-fagungis.git
 
 If you've already got an old version of Fagungis, and want to upgrade, use::
 
-    pip install -U git+https://github.com/damianmoore/django-fagungis.git
+    pip install -U git+https://github.com/shaohua/django-fagungis.git
 
 Installing from a directory
 ---------------------------
